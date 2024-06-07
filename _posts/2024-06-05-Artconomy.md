@@ -1,8 +1,9 @@
 ---
-title: "Artconomy.com: Character Art Commission Marketplace"
+title: "Artconomy.com"
 date: 2024-06-05
 categories: [Projects, Web Apps]
-tags: [art, furry, anime, characters]
+tags: [art, furry, anime, characters, open_source, python, rust, typescript, javascript]
+description: "A character art commissioning platform built for an enthusiastic community."
 image:
   path: /assets/img/posts/artconomy-post-header.jpg
   alt: An image of Artconomy.com's logo, with a screenshot of it blurred in the background.
@@ -10,11 +11,11 @@ image:
 
 ## Synopsis
 
-Artconomy is a character art commissioning platform.
+Artconomy is a character art commissioning platform. [Source code here](https://github.com/Kelketek/artconomy).
 
 ## Duties
 
-I founded Artconomy and developed it using Python and TypeScript. I lead the community and continue to act as the lead developer and maintainer, occasionally accepting pull requests to its codebase.
+I founded Artconomy and developed it using Python and TypeScript, with some critical functions written in Rust. I lead the community and continue to act as the lead developer and maintainer, occasionally accepting pull requests to its codebase.
 
 ## Background
 
@@ -24,9 +25,23 @@ While I have since continued my consulting work, Artconomy continues to grow in 
 
 Here are some of the cool things it does:
 
-* It provides an escrow system, Artconomy Shield, which protects both clients and artists.
+* It provides an escrow system, Artconomy Shield, which protects both clients and artists. It creates invoices, charges cards, and deposits into the artist's bank account.
 * It has a gallery system, allowing artists to show off their work.
 * It has a character management system, allowing clients to collect art of their characters, share them, and attach them as references to orders.
 * It dynamically manages the workload of artists to make sure they aren't overbooked.
 
 Artconomy has a passionate fanbase that grows every day. Its development was instrumental in the creation of several of my other projects, and it is my magnum opus, drawing from nearly every discipline I've managed to build over the years, from an understanding of how bookkeeping works, to in-depth frontend and backend web application development, to art, community building and writing.
+
+## Technologies used
+
+* Django
+* Python
+* TypeScript/JavaScript
+* Vue.js
+* Ansible
+* Rust
+* Make
+* Bash
+* NginX
+* Redis
+* PostgreSQL

@@ -9,7 +9,7 @@ image:
   alt: A photo of the Eye of Providence as featured on the US Dollar.
 ---
 
-## Synopsis
+## Abstract
 
 Providence is a library that makes it easy to keep track of state across multiple components in a React project,
 and which makes state management for most real-world apps and use cases easy. [Home page here](https://eye-of-providence.readthedocs.io/en/latest/) and [source code here](https://gitlab.com/opencraft/dev/providence/).
@@ -31,3 +31,14 @@ After this initial development, progress was rapid and code was far more readabl
 A few years later, OpenCraft needed to launch a new application, [Listaflow](/posts/Listaflow/). It ran across several similar problems, but was being written in React, while Artconomy was written in Vue. A direct port was not possible. However, a re-implementation using Redux as a backend instead of Vuex was.
 
 The code was ported as the 'Eye of Providence State Management Library', and is now used extensively to simplify loading, tracking, and updating remote state.
+
+## Tools/Technologies used
+
+* React
+* Redux
+* TypeScript
+* Git
+* NPM
+* Jest
+* Markdown
+* MkDocs

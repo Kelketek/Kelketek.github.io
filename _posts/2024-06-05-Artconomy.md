@@ -9,13 +9,13 @@ image:
   alt: An image of Artconomy.com's logo, with a screenshot of it blurred in the background.
 ---
 
-## Synopsis
+## Abstract
 
 Artconomy is a character art commissioning platform. [Source code here](https://github.com/Kelketek/artconomy).
 
 ## Duties
 
-I founded Artconomy and developed it using Python and TypeScript, with some critical functions written in Rust. I lead the community and continue to act as the lead developer and maintainer, occasionally accepting pull requests to its codebase.
+I founded Artconomy and developed it using Python and TypeScript, with some critical functions written in Rust. I lead the community and continue to act as the lead developer and maintainer, occasionally accepting pull requests to its codebase. I often speak at conferences about the platform and work with active users to continually hone the product.
 
 ## Background
 
@@ -32,12 +32,13 @@ Here are some of the cool things it does:
 
 Artconomy has a passionate fanbase that grows every day. Its development was instrumental in the creation of several of my other projects, and it is my magnum opus, drawing from nearly every discipline I've managed to build over the years, from an understanding of how bookkeeping works, to in-depth frontend and backend web application development, to art, community building and writing.
 
-## Technologies used
+## Tools/Technologies used
 
 * Django
 * Python
 * TypeScript/JavaScript
 * Vue.js
+* Vuetify
 * Ansible
 * Rust
 * Make
@@ -45,3 +46,19 @@ Artconomy has a passionate fanbase that grows every day. Its development was ins
 * NginX
 * Redis
 * PostgreSQL
+* Linux
+* Git
+* WordPress
+* Vite
+* Vitest
+* Stripe
+* Dwolla
+* Authorize.net
+* Cloudflare
+* Amazon SES
+* Drip
+* Discord
+* Excell
+* Trello
+* Telegram Bot API
+* ...And more I'm surely forgetting.

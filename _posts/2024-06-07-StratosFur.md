@@ -9,13 +9,13 @@ image:
   alt: An image of the StratosFur logo.
 ---
 
-## Synopsis
+## Abstract
 
 StratosFur is Houston's annual furry convention, founded in 2019.
 
 ## Duties
 
-I was a founding board member, working as the Director of Public Outreach on its first year to launch its inaugeral event. I provided organizational, IT, and artist management resources.
+I was a founding board member, working as the Director of Public Outreach on its first year to launch its inaugural event. I provided organizational, IT, and artist management resources.
 
 ## Background
 
@@ -32,3 +32,14 @@ Things were going well, but shortly after signing a contract with the hotel we s
 Our opening date was scheduled just as COVID restrictions were being lifted, and we had to cut off ticket sales to avoid attendance getting higher than we could manage for a first-year con. Around 800 people attended, making our first year a resounding success.
 
 After, I stepped down to focus further on Artconomy and prepare for the arrival of my first child. StratosFur continues to operate, and just ran its fourth event, hosting over 1,300 attendees and raising over $16,000 for the charity it sponsors, [Give Us Paws](https://www.giveuspaws.org/).
+
+Despite the assertion that such a convention could 'never happen', it has now managed to run over multiple years and continues to do so. I enjoy watching it grow each year, and continue to volunteer my time presenting at panels during the event.
+
+## Technologies used
+
+* cPanel
+* WordPress
+* Dokuwiki
+* MySQL
+* Telegram
+* Excell

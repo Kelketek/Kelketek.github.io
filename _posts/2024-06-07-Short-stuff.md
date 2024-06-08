@@ -9,7 +9,7 @@ image:
   alt: A photo of a short stack of pancakes. Photo by Sydney Troxell via Pexels
 ---
 
-## Synopsis
+## Abstract
 
 Short-stuff is a library for generating and translating shortcodes. It piggy-backs on UUID's byte format so
 that it can be used in databases and in software that already understands UUID4. [Source code here](https://github.com/Artconomy/short_stuff).
@@ -31,3 +31,12 @@ Short-stuff includes an optional Django field for easy use in Django-based proje
 ### TypeScript Port
 
 After using it successfully in Artconomy, [OpenCraft](https://opencraft.com/) ported the Library to TypeScript on the frontend in order to support its use within [Listaflow](/posts/Listaflow/).
+
+## Technologies used
+
+* Python
+* TypeScript
+* Django
+* Git
+* PyPi
+* NPM

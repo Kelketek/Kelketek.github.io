@@ -1,6 +1,6 @@
 ---
 title: "Providence"
-date: 2024-06-07
+date: 2024-06-05
 categories: [Libraries]
 tags: [open_source, javascript, typescript, react, redux, state_management]
 description: "A state management library that brings the safety of Redux to mere mortals."
@@ -12,9 +12,9 @@ image:
 ## Abstract
 
 Providence is a library that makes it easy to keep track of state across multiple components in a React project,
-and which makes state management for most real-world apps and use cases easy. [Home page here](https://eye-of-providence.readthedocs.io/en/latest/) and [source code here](https://gitlab.com/opencraft/dev/providence/).
+and which makes state management for most real-world apps and use cases easy. [Home page here](https://eye-of-providence.readthedocs.io/en/latest/) and [source code here](https://gitlab.com/opencraft/dev/providence/). Here's [a press release](https://opencraft.com/better-state-management-for-react-using-providence/) I wrote when we published the project.
 
-## Duties
+## Role
 
 At the time of writing, I am the sole implementer of Providence. I designed and developed it, wrote its documentation, and built its demo.
 
@@ -34,11 +34,4 @@ The code was ported as the 'Eye of Providence State Management Library', and is 
 
 ## Tools/Technologies used
 
-* React
-* Redux
-* TypeScript
-* Git
-* NPM
-* Jest
-* Markdown
-* MkDocs
+React, Redux, TypeScript, Git, NPM, Jest, Markdown, MkDocs

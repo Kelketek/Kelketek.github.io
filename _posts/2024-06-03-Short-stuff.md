@@ -1,6 +1,6 @@
 ---
 title: "Short Stuff"
-date: 2024-06-07
+date: 2024-06-03
 categories: [Libraries]
 tags: [open_source, javascript, typescript, python]
 description: "A library for generating short codes useful in URLs."
@@ -14,7 +14,7 @@ image:
 Short-stuff is a library for generating and translating shortcodes. It piggy-backs on UUID's byte format so
 that it can be used in databases and in software that already understands UUID4. [Source code here](https://github.com/Artconomy/short_stuff).
 
-## Duties
+## Role
 
 I was the initial designer and implementor in Python.
 

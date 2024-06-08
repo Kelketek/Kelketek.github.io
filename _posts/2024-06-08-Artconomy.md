@@ -1,6 +1,6 @@
 ---
 title: "Artconomy.com"
-date: 2024-06-05
+date: 2024-06-08
 categories: [Projects, Web Apps]
 tags: [art, furry, anime, characters, open_source, python, rust, typescript, javascript]
 description: "A character art commissioning platform built for an enthusiastic community."
@@ -13,7 +13,7 @@ image:
 
 Artconomy is a character art commissioning platform. [Source code here](https://github.com/Kelketek/artconomy).
 
-## Duties
+## Role
 
 I founded Artconomy and developed it using Python and TypeScript, with some critical functions written in Rust. I lead the community and continue to act as the lead developer and maintainer, occasionally accepting pull requests to its codebase. I often speak at conferences about the platform and work with active users to continually hone the product.
 
@@ -34,31 +34,4 @@ Artconomy has a passionate fanbase that grows every day. Its development was ins
 
 ## Tools/Technologies used
 
-* Django
-* Python
-* TypeScript/JavaScript
-* Vue.js
-* Vuetify
-* Ansible
-* Rust
-* Make
-* Bash
-* NginX
-* Redis
-* PostgreSQL
-* Linux
-* Git
-* WordPress
-* Vite
-* Vitest
-* Stripe
-* Dwolla
-* Authorize.net
-* Cloudflare
-* Amazon SES
-* Drip
-* Discord
-* Excell
-* Trello
-* Telegram Bot API
-* ...And more I'm surely forgetting.
+Django, Django REST Framework, Django Channels, Python, TypeScript/JavaScript, Vue.js, Vuetify, Ansible, Rust, Make, Bash, NginX, Redis, Celery, PostgreSQL, Linux, Git, WordPress, Vite, Vitest, Stripe, Dwolla, Authorize.net, Cloudflare, Amazon SES, Drip, Discord, Excell, Trello, Telegram Bot API, ...And more I'm surely forgetting.

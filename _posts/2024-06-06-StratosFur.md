@@ -1,6 +1,6 @@
 ---
 title: "StratosFur"
-date: 2024-06-05
+date: 2024-06-06
 categories: [Projects, Events]
 tags: [art, furry, characters, open_source, event, non_profit]
 description: "A furry convention in Houston."
@@ -11,9 +11,9 @@ image:
 
 ## Abstract
 
-StratosFur is Houston's annual furry convention, founded in 2019.
+StratosFur is Houston's annual furry convention, founded in 2019. [Website here](https://stratosfur.org/). [Video from a happy participant here](https://www.youtube.com/watch?v=4J8_hGkZYy8).
 
-## Duties
+## Role
 
 I was a founding board member, working as the Director of Public Outreach on its first year to launch its inaugural event. I provided organizational, IT, and artist management resources.
 
@@ -37,9 +37,4 @@ Despite the assertion that such a convention could 'never happen', it has now ma
 
 ## Technologies used
 
-* cPanel
-* WordPress
-* Dokuwiki
-* MySQL
-* Telegram
-* Excell
+cPanel, WordPress, Dokuwiki, MySQL, Telegram, Excell
